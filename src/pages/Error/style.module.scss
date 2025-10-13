@@ -1,0 +1,21 @@
+.error {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  gap: var(--ag-padding-s);
+  align-items: center;
+  justify-content: center;
+  color: var(--ag-black);
+
+  h1 {
+    font-size: var(--ag-title);
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    font-size: var(--ag-emphasis);
+    font-weight: 350;
+  }
+}

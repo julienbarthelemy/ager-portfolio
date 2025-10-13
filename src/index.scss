@@ -1,0 +1,42 @@
+:root {
+  font-family: IBM Plex Sans, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-variation-settings: "wdth" 100;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --ag-black: #000;
+  --ag-white: #fff;
+
+  --ag-title: 32px;
+  --ag-subtitle: 24px;
+  --ag-emphasis: 18px;
+  --ag-paragraph: 16px;
+
+  --ag-padding-s: 8px;
+  --ag-padding-m: 16px;
+  --ag-padding-l: 32px;
+  --ag-padding-xl: 64px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--ag-white);
+  color: var(--ag-black);
+}
+
+a {
+  color: inherit;
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
+}

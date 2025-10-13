@@ -1,0 +1,491 @@
+[
+  {
+    "id": 1,
+    "preview": "preview.png",
+    "survol": "survol.png",
+    "marque": "Repetto",
+    "type": "Back to the Office",
+    "description": "Campagne réalisée avec Repetto pour célébrer la fin de l’été, mettant en lumière les iconiques de la Maison dans une ambiance de rentrée élégante.",
+    "credits": [
+      "Direction artistique & Stylisme : Roxane Scudier",
+      "Photographie : Arthur Pichon",
+      "Assistant & Retouche photo : Axelle Lepage"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "6.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "7.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Festin des Rimes",
+    "type": "Album Concept",
+    "description": "Festin des Rimes est un album concept pour Caballero & JeanJass, inspiré de leurs morceaux et de leurs origines : l’Espagne pour Caballero, le Maroc pour JeanJass, et leur passion commune pour le Japon. L’album explore la gastronomie comme métaphore de leur duo, avec une assiette cassée réparée selon la technique japonaise du kintsugi, symbole de force et de beauté à travers les failles. La tracklist se transforme en véritable menu, avec des titres tels que “Mise en Bouche”, “Paella Tajine” ou “Note Salée”, proposant un voyage culinaire qui raconte leur histoire.",
+    "credits": [
+      "Création graphique & Photographie : Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.gif"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "preview": "preview.png",
+    "survol": "survol.png",
+    "marque": "Repetto",
+    "type": "Ballet Core",
+    "description": "Campagne imaginée dans un esprit balletcore, qui explore l’essence de la maison Repetto à travers ses classiques et sa nouvelle collection.",
+    "credits": [
+      "Direction artistique & Stylisme : Roxane Scudier",
+      "Photographie : Arthur Pichon",
+      "MUA : Aurélie Dehecq",
+      "Assistant & Retouche photo : Axelle Lepage - Galadriel Buchou"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.png"
+      },
+      {
+        "video": false,
+        "full": true,
+        "src": "3.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Pierre Hermé",
+    "type": "Timbres Coeurs",
+    "description": "Chaque année, à l’occasion de la Saint-Valentin, La Poste perpétue cette élégante tradition en proposant une série de timbres inédits. Pour 2025, La Poste s’associe à la Maison Pierre Hermé Paris pour dévoiler une collection exquise composée du Timbre Cœur Ispahan et du Timbre Cœur Macaron. Ce dialogue entre ces deux institutions symbolise la rencontre de deux univers iconiques de l’art de vivre à la française: la philatélie et la haute pâtisserie.",
+    "credits": [
+      "Conception graphique & Photographie : Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Saint Laurent",
+    "type": "Carré de soie",
+    "description": "Carré de soie inspiré de l’exposition Formes, Décors et Oeuvres de Claudia Wieser au musée Yves Saint Laurent : création du motif, impression et shooting pour un accessoire pensé dans l’esprit de la maison.",
+    "credits": [
+      "Direction artistique, conception graphique & colorimétrie : Axelle Lepage & Germain Dutay",
+      "Photographie : Youen Robert"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "6.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "7.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "8.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Minos",
+    "type": "Identité visuelle - Crossfit",
+    "description": "Minos est un club de Cross Training basé en Bretagne, dont le nom fait référence au Minotaure, créature mi-homme mi-taureau, symbole de force et de lutte intérieure. L’identité visuelle s’inspire de cette idée, avec un symbole angulaire évoquant la tête de taureau, pensé pour être simple, reconnaissable et adapté au mouvement ainsi qu’au textile.",
+    "credits": [
+      "Direction artistique, conception graphique & photographie : Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.gif"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Domiel",
+    "type": "Identité visuelle - Miel artisanal",
+    "description": "Domiel est le miel que mon père produit avec passion. Le design s’éloigne des codes traditionnels du secteur : pot noir, typographie bleue, sans aucune abeille à l’image. Minimaliste et modulaire, le style, associé à une étiquette tamponnée à la main, traduit le geste artisanal et reflète la sincérité ainsi que l’authenticité du projet.",
+    "credits": [
+      "Direction artistique, conception graphique & photographie : Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "6.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "7.gif"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "preview": "preview.png",
+    "survol": "survol.png",
+    "marque": "Repetto",
+    "type": "Ballet Twist",
+    "description": "Natures mortes à l’occasion de la sortie d’un nouveau modèle de ballerines Repetto.",
+    "credits": [
+      "Photographie : Arthur Pichon",
+      "Set Design & Retouche photo : Axelle Lepage"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.png"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Pierre Hermé",
+    "type": "Animation - Pâques 2025",
+    "description": "",
+    "credits": [
+      ""
+    ],
+    "content": [
+      {
+        "video": true,
+        "full": true,
+        "src": "1.mp4"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Manon",
+    "type": "Identité visuelle - Nutritionniste",
+    "description": "Développement de l’identité visuelle de Manon David, nutritionniste-diététicienne indépendante.",
+    "credits": [
+      "Direction artistique & Conception graphique : Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "Pierre Hermé",
+    "type": "Packaging - Saint Valentin",
+    "description": "Une Saint-Valentin repensée pour Pierre Hermé : un univers graphique épuré, bicolore, où les mots de l’amour rencontrent ceux de la gourmandise. Cette collection, intitulée Murmures, fait résonner les mots comme un écho à l’essence même de la maison.",
+    "credits": [
+      "Direction artistique, conception graphique, photographie & colorimétrie : Axelle Lepage & Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "3.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpeg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "5.gif"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "6.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "7.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "8.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "preview": "preview.jpg",
+    "survol": "survol.jpg",
+    "marque": "L'art du luxe",
+    "type": "Édition",
+    "description": "L’art du luxe est un mémoire graphique conçu comme un objet d’art, reprenant les codes visuels des beaux livres et de l’édition de mode.",
+    "credits": [
+      "Direction artistique, conception graphique & photographie : Axelle Lepage & Germain Dutay"
+    ],
+    "content": [
+      {
+        "video": false,
+        "full": false,
+        "src": "1.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "2.jpg"
+      },
+      {
+        "video": false,
+        "full": true,
+        "src": "3.jpg"
+      },
+      {
+        "video": false,
+        "full": false,
+        "src": "4.jpeg"
+      }
+    ]
+  }
+]
+

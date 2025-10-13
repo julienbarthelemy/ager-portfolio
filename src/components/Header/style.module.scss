@@ -1,0 +1,38 @@
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 80px;
+  background: var(--ag-white);
+  z-index: 200;
+}
+
+.nav__container {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 100%;
+  padding: 0 var(--ag-padding-m);
+}
+
+.nav__logo {
+  height: 24px;
+
+  svg {
+    fill: var(--ag-black);
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.nav__link {
+  font-family: IBM Plex Mono;
+  font-size: var(--ag-paragraph);
+  font-weight: 300;
+}
