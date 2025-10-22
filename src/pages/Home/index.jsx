@@ -3,6 +3,7 @@ import styles from './style.module.scss'
 import { Link } from 'react-router'
 import projectContent from '../../data/projectData.json'
 import { motion } from 'motion/react'
+import Footer from '../../components/Footer'
 
 export default function index() {
 
@@ -37,6 +38,7 @@ export default function index() {
           })
         }
       </div>
+      <Footer />
     </div>
   )
 }

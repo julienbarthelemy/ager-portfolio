@@ -32,7 +32,6 @@ function App() {
               <ScrollRestoration />
               <Header />
               <Outlet />
-              <Footer />
             </>
           )
         }

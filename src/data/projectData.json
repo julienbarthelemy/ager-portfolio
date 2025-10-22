@@ -239,7 +239,7 @@
       {
         "video": false,
         "full": false,
-        "src": "2.jpg"
+        "src": "2.gif"
       },
       {
         "video": false,
@@ -351,9 +351,10 @@
     "survol": "survol.jpg",
     "marque": "Pierre Hermé",
     "type": "Animation - Pâques 2025",
-    "description": "",
+    "description": "Motion design réalisé pour la campagne de Pâques 2025 de la Maison Pierre Hermé Paris.",
     "credits": [
-      ""
+      "Photographie : Patrick Rougereau",
+      "Motion Design : Germain Dutay"
     ],
     "content": [
       {

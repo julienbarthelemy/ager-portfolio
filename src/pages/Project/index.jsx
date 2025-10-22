@@ -4,6 +4,7 @@ import { Link } from 'react-router'
 import projectContent from '../../data/projectData.json'
 import { useParams } from 'react-router'
 import { motion } from 'motion/react'
+import Footer from '../../components/Footer'
 
 export default function index() {
 
@@ -96,7 +97,7 @@ export default function index() {
         </div>
       </div>
       <div className={styles.project__next}>
-        <h3 className={styles.next__title}>VOIR PLUS</h3>
+        <Link to={`/`}><h3 className={styles.next__title}>VOIR PLUS</h3></Link>
         <div className={styles.project__next__container}>
           {
 
@@ -127,6 +128,7 @@ export default function index() {
           }
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

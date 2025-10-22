@@ -44,10 +44,19 @@ export default function index() {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: .6, delay: .6, ease: [0.35, 1, 0.65, 1] }}
             >
-              <p>axellelepage1@gmail.com</p>
+              <a href='mailto:axellelepage1@gmail.com'>
+                <span>axellelepage1@gmail.com</span>
+                <div className={styles.button__underline} />
+              </a>
               <p>+33 (0)6 03 66 17 02</p>
-              <a href='https://www.behance.net/axellelpg' target='_blank'>Behance</a>
-              <a href='https://www.instagram.com/axellelepage_/' target='_blank'>Instagram</a>
+              <a href='https://www.behance.net/axellelpg' target='_blank'>
+                <span>Behance</span>
+                <div className={styles.button__underline} />
+              </a>
+              <a href='https://www.instagram.com/axellelepage_/' target='_blank'>
+                <span>Instagram</span>
+                <div className={styles.button__underline} />
+              </a>
             </motion.div>
           </div>
           <div className={styles.about__text}>
@@ -63,10 +72,19 @@ export default function index() {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: .6, delay: .7, ease: [0.35, 1, 0.65, 1] }}
             >
-              <p>gdutay1@gmail.com</p>
+              <a href='mailto:gdutay1@gmail.com'>
+                <span>gdutay1@gmail.com</span>
+                <div className={styles.button__underline} />
+              </a>
               <p>+33 (0)6 25 05 72 06</p>
-              <a href='https://www.behance.net/germaindutay1' target='_blank'>Behance</a>
-              <a href='https://www.instagram.com/germaindutay/' target='_blank'>Instagram</a>
+              <a href='https://www.behance.net/germaindutay1' target='_blank'>
+                <span>Behance</span>
+                <div className={styles.button__underline} />
+              </a>
+              <a href='https://www.instagram.com/germaindutay/' target='_blank'>
+                <span>Instagram</span>
+                <div className={styles.button__underline} />
+              </a>
             </motion.div>
           </div>
         </div>

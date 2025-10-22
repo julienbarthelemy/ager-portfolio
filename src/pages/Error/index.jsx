@@ -1,11 +1,15 @@
 import styles from './style.module.scss'
+import Footer from '../../components/Footer'
 
 export default function index() {
 
   return (
-    <div className={styles.error}>
-      <h1>404</h1>
-      <h3>Cette page n'existe pas</h3>
-    </div>
+    <>
+      <div className={styles.error}>
+        <h1>404</h1>
+        <h3>Cette page n'existe pas</h3>
+      </div>
+      <Footer />
+    </>
   )
 }
